@@ -7,4 +7,4 @@
  
 
 ### Technology Used for projects:
-1. **TestAD** Windows form applicaion (C#) 
+1. **TestAD** Windows form application (C#) 
