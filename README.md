@@ -1,6 +1,4 @@
-# TestAD
- Test Active Directory Connection
-# ObeTranslator
+# TestAD 
  Simple Test connection tool for test connnecting to Active directory (LDAP or SLDAP)
 
 ## The main idea in this tool is:
